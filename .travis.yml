@@ -2,8 +2,4 @@ language: python
 python:
         - "3.4"
 script:
-<<<<<<< HEAD
         - cd src; python testes.py
-=======
-        - cd src; python testes.py
->>>>>>> 57821561361a882c3982ad0b1566ddf8adf77ce9
